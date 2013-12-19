@@ -1,0 +1,20 @@
+@font-face {
+	font-family: "candy";
+	font-style: normal;
+	font-weight: normal;
+	src: url(images/CANDY.woff);
+}
+
+body{background: url(images/menu.jpg) no-repeat center center fixed;
+	background-size: 100% 100%;
+}
+
+h1{font-family: "candy", Sans-serif; font-size: 4rem; text-align: center; color: #ff00df;}
+
+h3{font-family: "candy", Sans-serif;
+  font-size: 2rem; 
+  margin: -0.1rem 0 0 -2.5rem;
+  color: white;
+  padding: 0.4rem 0.4rem 0.4rem 3rem;}
+
+ .turnos, .tiempo{margin-top:2rem; width: 100%; height: 3rem; background-color: #ff00df;}

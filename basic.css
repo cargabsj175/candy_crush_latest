@@ -1,0 +1,140 @@
+@font-face {
+	font-family: "candy";
+	font-style: normal;
+	font-weight: normal;
+	src: url(images/CANDY.woff);
+}
+
+body{background: url(images/bg.jpg) no-repeat center center fixed; 
+  background-size: 100% 100%;}
+
+p{text-align: center;}
+
+h3{font-family: "candy", Sans-serif;
+  font-size: 1.2rem; 
+  margin: -0.1rem 0 0 -2.5rem;
+  color: white;
+  padding: 0.4rem 0.4rem 0.4rem 3rem;}
+
+button{width: 100%; height: 2.8rem; background-color: #ff00df;}
+
+div#game {
+	font-family: "candy";
+	font-size: 1rem;
+	width: 100%;
+	overflow: visible;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+canvas#main {
+	background-image: url("images/CC_Gameboard_2.png");
+	box-shadow: 3px 3px 4px rgba(0,0,0,0.2);
+	padding-bottom: 0px;
+	position:relative;
+	border: 1px solid black;
+	width: 100%;
+	margin-top: 1%;
+	margin-left:-10%;
+	
+}
+
+/*Note: There are patterns related to local, global, and function calls in code.*/
+
+p.textDisplay {
+	background-color: #FFCDCE;
+	color: #364830;
+	border-radius: 10px;
+	box-shadow: inset 5px 5px 10px -5px black, inset -5px -5px 10px -5px white;
+	margin: 0px;
+	padding-top: 4px;
+	height: 37px;
+        width: 45%;
+}
+
+p#score {
+	float: left;
+	width:  51%;
+	width: -moz-calc(50% - 4px);
+	width: -webkit-calc(50% - 4px);
+	width: calc(50% - 4px);
+}
+
+p#cash {
+	margin-left:  51%;
+	margin-left: -moz-calc(50% + 4px);
+	margin-left: -webkit-calc(50% + 4px);
+	margin-left: calc(50% + 4px);
+}
+
+div.textDisplayBorder {
+	background-color: #F260B1;
+	background: -webkit-repeating-linear-gradient(45deg, #FFC2C7 0px, #FFC2C7 25px, #F260B1 25px, #F260B1 60px);
+	background: repeating-linear-gradient(50deg, #F260B1 0px, #FFC2C7 1px, #FFC2C7 25px, #F260B1 26px, #F260B1 60px);
+	border-radius: 15px;
+	margin-bottom: 1em;
+	padding: 8px;
+	overflow: visible;
+};
+
+div#popover {
+	background:  white;
+	background: rgba(255,255,255,0.8);
+	font-size: 20px;
+	margin-left: 40px;
+	margin-right: auto;
+	outline: 3px solid black;
+	position: absolute;
+	text-align: center;
+	top: 250px;
+	width: 400px;
+}
+
+div#music {
+	background: #3ba1c2; /*A pretty blue.*/
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border: 1px solid black;
+	bottom: 0%;
+	margin-bottom: -6px;
+	padding-bottom: 0px;
+	padding: 6px;
+	position: fixed;
+	right: 5%;
+}
+
+#facebook-div {background-color: rgba(255,255,255,0.8); display: none;}
+
+.gameTextOverlay {
+	pointer-events: none; /*Sometimes, CSS is amazingly wonderful.*/
+}
+
+/*Portrait*/
+@media only screen and (min-width: 320px){
+	div#game{font-size: 1.1em; width: 67%;}
+	canvas#main{width: 150%; left: -30px;}
+}
+
+/*Portrait*/
+@media only screen and (min-width: 480px){
+	div#game{font-size: 1.2em; width: 62%;}
+	canvas#main{width: 145%; left: -35px;}
+}
+
+/*Landscape*/
+@media only screen and (min-width: 640px){
+	div#game{font-size: 1em; width: 69%;}
+	canvas#main{width: 130%; height:480px; left: -30px;}
+}
+
+/*Portrait*/
+@media only screen and (min-width: 768px){
+	div#game{font-size: 1em; width: 70%;}
+	canvas#main{width: 130%; height:480px; left: -25px;}
+}
+
+/*Landscape*/
+@media only screen and (min-width: 1024px){
+	div#game{font-size: 1em; width: 71%;}
+	canvas#main{width: 120%; height:768px; left: -20px;}
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Menu - Candy Crush for Firefox OS</title>
+	<link rel="stylesheet" type="text/css" href="inicio.css">
+	<script>
+    document.getElementById('audio').addEventListener('ended', function(){
+    this.currentTime = 0;
+    this.play();
+    }, false);
+	</script>
+</head>
+<body>
+	<div id="menu">
+		<audio id="audio" preload autoplay loop>
+  			<source src="sounds/candy-crush-saga.ogg" type="audio/ogg">
+		</audio>
+		<h1>Menu</h1>
+		<button class="turnos" onClick="javascript: document.location.href='turnos.html'"><h3>Turns Mode</h3></button>
+		<button class="tiempo" onClick="javascript: document.location.href='tiempo.html'"><h3>Time Mode</h3></button>
+	</div>
+</body>
+</html>

@@ -1,0 +1,431 @@
+Manifest-Version: 1.0
+
+Name: averageRGB.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UCnGw0i0Z2Q/RBqgN/oypg==
+SHA1-Digest: VmR0osO9CcBiLGmAahkJPPI+B2o=
+
+Name: basic.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W/DWtFkGjDotGBp1IKO7Gw==
+SHA1-Digest: RTEf05YZTXjAZte8KkKF2/XSMQ4=
+
+Name: EaselColorFilter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PbmZjrL01yMH8lq1ZzOybA==
+SHA1-Digest: tQwNd3ZT0csQnRJWQalpWH7DGXY=
+
+Name: htmlInterface.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iArd5qdwISWRZ5jdydG3AQ==
+SHA1-Digest: GA510ttsH0Yge6oGXBORGS2k84c=
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NRpOO4k6fFsWgV07b67qsg==
+SHA1-Digest: y6R6qE8zVEjLhcTuQi/4ZAeTYrw=
+
+Name: inicio.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: P73jHS6acinLYn9QrlupOw==
+SHA1-Digest: eHvnCXj36brvE5C0YcxpnoXwjRQ=
+
+Name: load game.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GOOyn1ythtQyQrl3mMPBwQ==
+SHA1-Digest: j/sjrYRnZ6RvGOPUFFBWFiYtPNU=
+
+Name: main.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3g1M+idVBnvBf3sl1RJOnQ==
+SHA1-Digest: kCcka6KOsaVs45Jz/1cSJu2GkE8=
+
+Name: main2.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jWCM4I3z+xK8f1afJnBGKg==
+SHA1-Digest: AU+WXUtyWHsHa5a1ES6/0dB2f1A=
+
+Name: manifest.webapp
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ia9pVOwImnFZuXsbxFz/yw==
+SHA1-Digest: aRqIZewIBVpaTIAyX3FPzsKva5U=
+
+Name: README
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kErFYsrJK7sl+8OMkHFFHQ==
+SHA1-Digest: KSdwGBGAYeTkt9Erbx0/GRKtjDo=
+
+Name: README.md
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KHWkErmBBAC/rHpRf2RxAA==
+SHA1-Digest: Ju2hPJ69cDqxpXZXC2QRIBS0g7U=
+
+Name: tiempo.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xsYQ4kKYYJferXol5pPQ7w==
+SHA1-Digest: 2hb8a9GY0SmajnJfSyiv0940fxU=
+
+Name: turnos.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MicZ/0YxAv+Pq9r1uOxTzQ==
+SHA1-Digest: UVGzNweYPzjNkEeBjwytAyrZgkQ=
+
+Name: dependancies/jquery-2.0.3.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: spwi6uRZqnFc3Y+jQLtuKQ==
+SHA1-Digest: rXNZDJK0w/CNAqB1G6TkrvZY2qA=
+
+Name: dependancies/jquery-cur.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s0YxBNOtqXSSSd7Z90mcAQ==
+SHA1-Digest: U6CCwgZ/OR0FbC5FxoNTtcW7E7A=
+
+Name: dependancies/underscore.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mZ+py1z/7o9JEHPP4Wm2Fg==
+SHA1-Digest: t8hgHZPq/Usd/mOGb48aC7gYOVo=
+
+Name: dependancies/easel.js/lib/easeljs-0.5.0.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: h3R12gxdPnEYJNW34dNmow==
+SHA1-Digest: RUZaKFuP/6HN2JWQ4DKb8RUR2Vs=
+
+Name: dependancies/easel.js/lib/movieclip-0.5.0.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mdCFGYAUJODYgMBrmm1KKg==
+SHA1-Digest: cD2q6MHn4R+jS2d7jIUtDePqjYI=
+
+Name: dependancies/easel.js/lib/README.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QOCUE7rOxsWFAevVrLMUhQ==
+SHA1-Digest: 6YSDEd7DQnhQFdoj65izPPgwHgE=
+
+Name: dependancies/EaselFL/js/FLSetup.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +TGTc9NU4hq2KJlAw7nBjA==
+SHA1-Digest: bbapSJDo7sxTLBfjQF0Ufpg+Lpk=
+
+Name: dependancies/EaselFL/js/swfobject.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iSpUPzq7VOjsGtpVvjsGSQ==
+SHA1-Digest: WEftEB9V1RxTU4pweJcefej7Z2I=
+
+Name: dependancies/EaselFL/js/easelfl/display/Bitmap.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LRDmEtOac9ljHdc2yIYP3Q==
+SHA1-Digest: nJFh/WdFHgW/s+gdV0xTEEVD7s0=
+
+Name: dependancies/EaselFL/js/easelfl/display/BitmapAnimation.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +HHNo42bTl21TeKM4urxMg==
+SHA1-Digest: Hbr8aH34kgEy9CyaK9Gh2RfYuOA=
+
+Name: dependancies/EaselFL/js/easelfl/display/CanvasFl.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1wvUeKL1A1HTlVsx4PHceA==
+SHA1-Digest: Db7SvInRXL0zU2oY+6qEf+zuojo=
+
+Name: dependancies/EaselFL/js/easelfl/display/Container.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: X7bV4DH1BIV41ytU5OUAYQ==
+SHA1-Digest: mFssWp7ylP1mw49L968b57+/i9M=
+
+Name: dependancies/EaselFL/js/easelfl/display/DisplayObject.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tq2w1xCw/T4JKIjtQvQMHQ==
+SHA1-Digest: 6hWC31MoM17DI1z5HLS8WzuwQjQ=
+
+Name: dependancies/EaselFL/js/easelfl/display/DOMElement.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c7dt8UwvrgKmKllecPx9IA==
+SHA1-Digest: ITVwhqz0qjkw1TuzFFcnlushslE=
+
+Name: dependancies/EaselFL/js/easelfl/display/FrameFl.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YezC37CE8fWzikGTWyYMjw==
+SHA1-Digest: psKdOcAV2VYtPwGqat1hvhNIz7w=
+
+Name: dependancies/EaselFL/js/easelfl/display/Graphics.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EciNFqe2oUZGpkeI3A0wEA==
+SHA1-Digest: YfCu+I4eiHJ8ce31qTpTXm9iKoU=
+
+Name: dependancies/EaselFL/js/easelfl/display/ImageFl.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OQtSFERqkOUyI9laAwzovA==
+SHA1-Digest: mxm2/c6aLonYFUSMAQxKH5OEpBI=
+
+Name: dependancies/EaselFL/js/easelfl/display/MovieClip.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: S7saPAYQBAoaf8pX9pO+hQ==
+SHA1-Digest: LU1KImjTDAIPoapB6lxf+jXNcuc=
+
+Name: dependancies/EaselFL/js/easelfl/display/Shadow.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rs/xNJU1Z6MHdEt6v1eRRA==
+SHA1-Digest: yN6hn9s9uzs4a0rj3HAyiRZIzBs=
+
+Name: dependancies/EaselFL/js/easelfl/display/Shape.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Tm6JHLjmR7fnCJoYi0XdBg==
+SHA1-Digest: ksSZnvKguKoGZZ29zGp963EM5hI=
+
+Name: dependancies/EaselFL/js/easelfl/display/SpriteSheet.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VGzHkeTNEi6BR8eKhdZ0Dg==
+SHA1-Digest: RkHjU9/ghZ/MTJFB64VnAteuYoA=
+
+Name: dependancies/EaselFL/js/easelfl/display/Stage.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yVNx9Iy8eTEF89j51XIcew==
+SHA1-Digest: V6VLlkYRGBGiQoojn5WGtdXmfxU=
+
+Name: dependancies/EaselFL/js/easelfl/display/Text.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QjXYYdVXOekYBkqp4QWymA==
+SHA1-Digest: RLOiXNqsmj/V1eXWGl2CP2bDpvA=
+
+Name: dependancies/EaselFL/js/easelfl/events/MouseEvent.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 93k4MjJM4Yf+b1CyPUjntA==
+SHA1-Digest: PsqfV9PVETd55FBeCkDpdJdnHuw=
+
+Name: dependancies/EaselFL/js/easelfl/filters/AlphaMapFilter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BcfZ/M5PWD/RLWRXINYjcQ==
+SHA1-Digest: FO5s9lkynitzQm9WFk5gbCiUL8Q=
+
+Name: dependancies/EaselFL/js/easelfl/filters/AlphaMaskFilter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qtwZ1i7Du/S/PWNpoklxKg==
+SHA1-Digest: huTmmvWkHamWLufk9qvxVqEhsNM=
+
+Name: dependancies/EaselFL/js/easelfl/filters/BoxBlurFilter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kbLetnY0NoBd96dcur7QUg==
+SHA1-Digest: lNurB/re7og1947Gv3SkvSpGVbU=
+
+Name: dependancies/EaselFL/js/easelfl/filters/ColorFilter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +pkolNOz8v+0OAUS0LJQlg==
+SHA1-Digest: 5pgErfwGiZleaSt2vdPFdVhYTqw=
+
+Name: dependancies/EaselFL/js/easelfl/filters/ColorMatrix.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4Xi6xUWXzh4dTR9NQrvArQ==
+SHA1-Digest: aixT7k1ex4/xiLjI5HOm6XP3u4I=
+
+Name: dependancies/EaselFL/js/easelfl/filters/ColorMatrixFilter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jOFRjt/mjmVFTQgBx9vHdA==
+SHA1-Digest: cHRH4kbCG/+qCwLqRQzK6hsXhJE=
+
+Name: dependancies/EaselFL/js/easelfl/filters/Filter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CQq/l7uABYp3UNxedephNg==
+SHA1-Digest: z94K+WJhX/TJ65BAJ95iFTo9gO8=
+
+Name: dependancies/EaselFL/js/easelfl/geom/Matrix2D.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jIBPFyxrgoXUT/0RgaDw7w==
+SHA1-Digest: Uk3lM6Db7GqmI2p6XHQXmZXJxaY=
+
+Name: dependancies/EaselFL/js/easelfl/geom/Point.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dTvd2xxQilDWo17lSVoB8A==
+SHA1-Digest: mbHklM3fNXO0YOZaHf5uRCCGcDU=
+
+Name: dependancies/EaselFL/js/easelfl/geom/Rectangle.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8xPGIXRiLntIKF/wAmTnEA==
+SHA1-Digest: dA/+zyMXAz5z8KOYeNvuRs7frDY=
+
+Name: dependancies/EaselFL/js/easelfl/ui/Touch.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QNrmuuvbw7Sp6u+RrNvx3A==
+SHA1-Digest: tduIS0avbOqEa3gBHg19m43E2Cw=
+
+Name: dependancies/EaselFL/js/easelfl/utils/BrowserContext.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CzeaI9GvYeXAVKXa8OVArQ==
+SHA1-Digest: NSv5KVlHIeXRiWu5sbL7cN1p8RE=
+
+Name: dependancies/EaselFL/js/easelfl/utils/ContextConfig.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ElQoR4XfPvzOSE0TRqiMnA==
+SHA1-Digest: 9Ui74CJomW17mG5XyejiO4PiRSY=
+
+Name: dependancies/EaselFL/js/easelfl/utils/SpriteSheetUtils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q5qArU44DtRfB+SwQt3gKA==
+SHA1-Digest: fSXwqavTjp//xLcfml76BRnFNzw=
+
+Name: dependancies/EaselFL/js/easelfl/utils/Ticker.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DPiAyn3vFK+9kxuK+OG2EA==
+SHA1-Digest: cim/Agkxh92qvNKeQp9hfoLeSgE=
+
+Name: dependancies/EaselFL/js/easelfl/utils/UID.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cdkzKWJa1H8g4Vb+4FgwKA==
+SHA1-Digest: bXNbwqIOeo6mWudiJDE95DJ2nDI=
+
+Name: dependancies/sound.js/lib/README.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: K+qf7lqiQnrGzd1IL6+anw==
+SHA1-Digest: jbPguTWBdIsE7fujvrRvlWlmIPA=
+
+Name: dependancies/sound.js/lib/soundjs-0.3.0.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IZ2D+n6raoAU73oIzpdJDA==
+SHA1-Digest: 2kHJgFZvbsr4nkIVLaD+/TlAw8A=
+
+Name: dependancies/sound.js/lib/soundjs.flashplugin-0.3.0.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KkAlBlXxWfDHNErUcoTjcw==
+SHA1-Digest: Hg+D0uHDh8f9/iPXOmxgk07rSZk=
+
+Name: dependancies/tween.js/lib/easeljs-0.5.0.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: h3R12gxdPnEYJNW34dNmow==
+SHA1-Digest: RUZaKFuP/6HN2JWQ4DKb8RUR2Vs=
+
+Name: dependancies/tween.js/lib/README.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r0mO+wyzJeaKCql5r6B90A==
+SHA1-Digest: FwK3h2aB+g0jgtPiXZC1z/O2usQ=
+
+Name: dependancies/tween.js/lib/tweenjs-0.3.0.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BTPwVJxbwX0xlQ1Tb5EwPA==
+SHA1-Digest: th7935S263HC7CTJaD/rCfkoIxQ=
+
+Name: images/bg.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lmhFalbNOiRWFG3quvTp0w==
+SHA1-Digest: ITzDSDGzCtZ47l8oEvriHO50QE0=
+
+Name: images/CANDY.woff
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: muffY6MxsKULugy1bLgBdQ==
+SHA1-Digest: w9wcD4/mUfCNeMttlIWR/aS9uT8=
+
+Name: images/CC_BG.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pnfD87kdlokSVcE/DCuJyQ==
+SHA1-Digest: DYAUMmFqS3i9SYg8DjFBy5tT5Aw=
+
+Name: images/CC_Gameboard_2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iRp6EmWjWfH2oPpK3Q/v+Q==
+SHA1-Digest: eTMm3zBaryos6bvkLG/hOfIKhN4=
+
+Name: images/CC_Grid_Sprite_Sheet_v2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UbPS0JZIwa2wv28FyHjzJw==
+SHA1-Digest: UbneLhWyXhqJQ4BNF6PSlmWQkM0=
+
+Name: images/CC_Menu_BG.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jJnp7KR2Y11j1BOoyb8egw==
+SHA1-Digest: m5qbNrwSgiNHNITLxJ+hK8aAKzw=
+
+Name: images/logo-128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7EzoA8F614trFZy6vnSA9Q==
+SHA1-Digest: cn57casFwzCILTujVDAUB7mAuNA=
+
+Name: images/logo-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KUvDUlfTaWWS8CSz3qrEOA==
+SHA1-Digest: G7Lw5qTMuQYqIpf3mzWaeJAfGXI=
+
+Name: images/logo-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gpp+lQOlxPEe4lBLdmvrGA==
+SHA1-Digest: +k7xu0t5GwiKOy3HKRx6YwGhJ+s=
+
+Name: images/logo-60.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HHrcILRcJcxTVsR370IxZA==
+SHA1-Digest: MODJrehJXN/KvoZ7ukdVBK7RCng=
+
+Name: images/menu.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BAw4sMcmmMse295NRVTQuA==
+SHA1-Digest: bDdkhPZ+Wk975Z2PTcQk3NlxIbM=
+
+Name: images/Burst_FX_EJS/Burst_FX.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rCJOBxgt6AZI8axicZDN2Q==
+SHA1-Digest: japTphJi56DDssm9vxvA/Pnin0w=
+
+Name: images/Burst_FX_EJS/Burst_FX.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4T5e9rbflyF/TXWC3doXeQ==
+SHA1-Digest: yMNcPHpN4hVib0pXFXBrYEDD7ok=
+
+Name: sounds/candy-crush-loop.ogg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3NkMqe+XOJw7qcW9uhhpSg==
+SHA1-Digest: 00JNTFjCWPbrWbMjR72QHHkiWUY=
+
+Name: sounds/candy-crush-saga.ogg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j8r0rGZ9gscPKyrO6MUVBQ==
+SHA1-Digest: Y+sENYqzTM9AOTA4NrIWyCzKlkM=
+
+Name: sounds/combo_sound1.ogg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /Q66EXv9hHeuZqAEE4l5Cw==
+SHA1-Digest: 0ovnoA0fZtGUfhz35nCH97dEKG0=
+
+Name: sounds/delicious.ogg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 049j5bN7bkHdto1CABnRbQ==
+SHA1-Digest: pvjIhdOv6RXfLV3LeiftdcG37LI=
+
+Name: sounds/divine.ogg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uixv9uHFhR7VYKRTJh1unQ==
+SHA1-Digest: tHo8XBzCjHRsfABirL7qp1dom+o=
+
+Name: sounds/level_completed.ogg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nXV0hixMQ6kH6CYchHc4tw==
+SHA1-Digest: sd/nAh1FdWutGdZhZ9FnzN0A0AM=
+
+Name: sounds/square_removed2.ogg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s33DXenQA7eeXGfu0xwO4A==
+SHA1-Digest: LeAftf9rJU5y9G4G4jo+JE80gNk=
+
+Name: sounds/sugar_crush.ogg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jxjTD3wqNzQ/SszYfxgTkA==
+SHA1-Digest: b0NC1D8vMrQ5giJ6zajt3pxZv4Q=
+
+Name: sounds/super_colour_bomb1.ogg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YkwDtpf8Xu1wXsoO2oSUbQ==
+SHA1-Digest: l2zpPSVHZ2/72AzU2J97+W2x/T4=
+
+Name: sounds/sweet.ogg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3D66xvyZ+Vl4Eh06AXeZ+g==
+SHA1-Digest: FTg7SBm2sRamCTcLYP9BKAJwtM8=
+
+Name: sounds/tasty.ogg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z9yXr+1iD9iRDMToXTNktw==
+SHA1-Digest: WTjh2oA5Y8U+MpuzbuMCf2Xb8XQ=
+
+Name: LICENSE
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: O2GKw3x2rSWBiSTMR5I0Ww==
+SHA1-Digest: ntT55sunxow7Vg/Fa+zNraEOv/s=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gge0dhGVsSk9hZavdBXdxA==
+SHA1-Digest: lYXGyjgPkTfvb9vOV/aHGthsuZg=

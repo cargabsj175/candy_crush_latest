@@ -1,0 +1,31 @@
+{
+  "version": "0.3",
+  "name": "Candy Crush",
+  "description": "Candy Crush gameplay using HTML5",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/images/logo-16.png",
+    "48": "/images/logo-48.png",
+    "60": "/images/logo-60.png",
+    "128": "/images/logo-128.png"
+  },
+  "developer": {
+    "name": "Richard Armuelles",
+    "url": "http://www.alswblog.org"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "locales": {
+    "en": {
+      "description": "Candy Crush gameplay using HTML5",
+      "developer": {
+        "name": "Richard Armuelles",
+        "url": "http://www.alswblog.org"
+      }
+    }
+  },
+  "default_locale": "en",
+  "permissions": {},
+  "fullscreen": "true"
+}
